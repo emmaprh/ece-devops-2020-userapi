@@ -1,1 +1,3 @@
-# ece-devops-2020-userapi
+# User API
+
+Basic NodeJS web application
