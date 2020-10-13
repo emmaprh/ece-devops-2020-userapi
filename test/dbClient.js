@@ -1,4 +1,5 @@
 const { expect } = require('chai')
+var redis = require("redis");
 let client
 
 describe('Redis', () => {
